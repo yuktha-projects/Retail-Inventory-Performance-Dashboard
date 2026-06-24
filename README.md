@@ -1,4 +1,5 @@
-# Retail-Inventory-SQL-Analysis
+# Retail-Inventory-Peformance-Analysis
+
 -- Project overview -- 
 This Project focuses on solving inventory and revenue-related business problem. using SQL. The analysis was performed in SQL Server Management Studio (SSMA) using imported retail product data. 
 
